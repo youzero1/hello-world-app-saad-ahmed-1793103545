@@ -1,5 +1,5 @@
 ---
-status: pending
+status: implemented
 title: Change the title to "Hello"
 ---
 

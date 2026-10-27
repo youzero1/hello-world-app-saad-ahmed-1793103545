@@ -20,7 +20,7 @@ function HomePage() {
         <h1
           className={`bg-gradient-to-r bg-clip-text text-6xl font-extrabold tracking-tight text-transparent transition-all duration-700 sm:text-7xl md:text-8xl ${theme.headline}`}
         >
-          Hello, World!
+          Hello
         </h1>
         <p className={`mx-auto max-w-md text-base transition-colors duration-700 sm:text-lg ${theme.subtitle}`}>
           Every great app starts with two little words. This one just did.
